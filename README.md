@@ -10,7 +10,7 @@
   - :computer: [Gmail] (starr.sabrina.e@gmail.com)
 
 
--Fun fact :hamster: : Armadillos are my favorite animal
+- Fun fact :hamster: : Armadillos are my favorite animal
 
 
 
