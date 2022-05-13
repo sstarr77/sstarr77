@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
--:zap: I love the outdoors, programming, data science, and movies
+- :zap: I love the outdoors, programming, data science, and movies
 - 🔭 I am currently working on using data science to detect the presence of autism in genes
 - 🌱 I am addicted to learning new things and growing every day
 
